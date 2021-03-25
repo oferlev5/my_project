@@ -1,6 +1,6 @@
-public class myclass {
-    public static void main(String[] args) {
-        int y = 7;
-        int x = 8;
-    }
+class student {
+    int age = 23;
+    static string creature_type = 5;
 }
+
+
